@@ -3,3 +3,15 @@ body {
     margin: 0;
     background: #f2f6e9;
 }
+
+button {
+    border:1px solid #6ab446;
+    background:#6ab446;
+    border-radius: 0;
+    color:#fff;
+}
+button:hover {
+	border:1px solid #fff;
+    background:#fff;
+    color:#000;
+}
